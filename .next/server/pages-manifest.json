@@ -2,8 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blocks": "pages/blocks.js",
-  "/blocks/[height]": "pages/blocks/[height].js",
-  "/asset": "pages/asset.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/address": "pages/address.js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
 }

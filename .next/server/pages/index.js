@@ -105,7 +105,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _nav_index__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./nav/index */ "./pages/nav/index.jsx");
-var _jsxFileName = "E:\\2020\u5DE5\u4F5C\u5BA4\\Fsn365-2020\\pages\\index.js";
+var _jsxFileName = "D:\\web-JXZQ\\Program\\fsn\\Fsn365-2020\\pages\\index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -152,7 +152,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Nav; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "E:\\2020\u5DE5\u4F5C\u5BA4\\Fsn365-2020\\pages\\nav\\index.jsx";
+var _jsxFileName = "D:\\web-JXZQ\\Program\\fsn\\Fsn365-2020\\pages\\nav\\index.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function Nav() {
