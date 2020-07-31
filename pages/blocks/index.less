@@ -1,18 +1,50 @@
 .blockscontainer {
   width: 80%;
   margin: auto;
-  .blockstext {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.6;
-    padding: 20px 0;
-    margin-left: 9px;
-  }
 }
-
+.blockstext {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.6;
+  padding: 20px 0;
+  margin-left: 9px;
+}
 .root {
   width: 100%;
 }
 .container {
   height: 440px;
+}
+.bl-box {
+  width: 100%;
+  height: 316px;
+  border: 1px solid #e7eaf3;
+  padding: 0.75rem;
+  box-shadow: 0 0.5rem 1.2rem rgba(189, 197, 209, 0.2);
+  margin-bottom: 1.75rem;
+  border-radius: 4px;
+}
+.blockson {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  .blockson-box {
+    width: 49%;
+  }
+  p {
+    display: block;
+    font-size: 15px;
+    padding: 3px;
+    word-spacing: 5px;
+  }
+  span {
+    display: inline-block;
+    padding-left: 5px;
+  }
+}
+hr {
+  border: 0;
+  border-top: 1px solid #e7eaf3;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
