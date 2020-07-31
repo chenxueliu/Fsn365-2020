@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./index.less";
 import axios from "axios";
 import Link from "next/link";
-import Footer from "../component/footer/index";
+import Footer from "../../src/conponents/Footer/index";
 import Navinput from "../component/navinput/index";
 
 import Paper from "@material-ui/core/Paper";

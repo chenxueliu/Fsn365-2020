@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./index.less";
 import Navinput from "../component/navinput/index";
+import Footer from "../../src/conponents/Footer/index";
 export default function height() {
   const [data, setData] = useState(null);
   useEffect(() => {
@@ -105,6 +106,7 @@ export default function height() {
           )}
         </div>
       </div>
+      <Footer></Footer>
     </div>
   );
 }
