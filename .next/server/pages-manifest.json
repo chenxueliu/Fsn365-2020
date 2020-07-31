@@ -2,7 +2,11 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+<<<<<<< HEAD
   "/": "pages/index.js",
   "/address": "pages/address.js",
   "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
+=======
+  "/asset": "pages/asset.js"
+>>>>>>> b5420e697ace9723eef81a9bbc9f4775b4cf3680
 }
